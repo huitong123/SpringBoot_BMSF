@@ -17,6 +17,7 @@ import javax.servlet.http.HttpSession;
 @Controller
 public class IndexController {
 
+
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
