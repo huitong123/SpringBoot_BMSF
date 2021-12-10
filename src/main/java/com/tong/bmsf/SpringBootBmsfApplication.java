@@ -14,6 +14,8 @@ public class SpringBootBmsfApplication {
         SpringApplication.run(SpringBootBmsfApplication.class, args);
 
         System.out.println("hello modify code!");
+        
+        System.out.println("pull ing...")
     }
 
 }
